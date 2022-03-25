@@ -1,4 +1,4 @@
-# Date,Location,MinTemp,MaxTemp,Rainfall,Evaporation,Sunshine,WindGustDir,WindGustSpeed,WindDir9am,WindDir3pm,WindSpeed9am,WindSpeed3pm,Humidity9am,Humidity3pm,Pressure9am,Pressure3pm,Cloud9am,Cloud3pm,Temp9am,Temp3pm,RainToday
+# longitude,latitude,housingMedianAge,totalRooms,totalBedrooms,population,households,medianIncome,medianHouseValue
 -121.22,37.72,34.0,2123.0,387.0,1310.0,368.0,2.6368
 -121.22,37.81,17.0,2879.0,542.0,1802.0,530.0,3.6378
 -121.22,37.8,28.0,2608.0,576.0,1719.0,554.0,2.1186
